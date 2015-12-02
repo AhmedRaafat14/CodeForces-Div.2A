@@ -55,5 +55,5 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/602/A
       24- 318A. Even Odds:
             http://codeforces.com/problemset/problem/318/A
-      24- 466A. Cheap Travel:
+      25- 466A. Cheap Travel:
             http://codeforces.com/problemset/problem/466/A
