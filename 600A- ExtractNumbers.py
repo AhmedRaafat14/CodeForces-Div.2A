@@ -26,7 +26,8 @@ Output
 Print the string a to the first line and string b to the second line.
 Each string should be surrounded by quotes (ASCII 34).
 
-If there are no words that are numbers print dash (ASCII 45) on the first line. If all words are numbers print dash on the second line.
+If there are no words that are numbers print dash (ASCII 45) on the first line. If all words are numbers print dash on 
+the second line.
 ==================================
 Sample test(s)
 
