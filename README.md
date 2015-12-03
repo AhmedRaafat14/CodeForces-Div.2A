@@ -58,6 +58,8 @@ Difficulty Level: 2
       25- 466A. Cheap Travel:
             http://codeforces.com/problemset/problem/466/A
       26- 604A. Uncowed Forces:
-             http://codeforces.com/problemset/problem/604/A
+            http://codeforces.com/problemset/problem/604/A
       27- 600A. Extract Numbers:
-         http://codeforces.com/problemset/problem/600/A
+            http://codeforces.com/problemset/problem/600/A
+      28- 599A. Patrick and Shopping:
+            http://codeforces.com/problemset/problem/599/A
