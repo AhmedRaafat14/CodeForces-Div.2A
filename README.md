@@ -57,3 +57,5 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/318/A
       25- 466A. Cheap Travel:
             http://codeforces.com/problemset/problem/466/A
+      26- 604A. Uncowed Forces:
+             http://codeforces.com/problemset/problem/604/A
