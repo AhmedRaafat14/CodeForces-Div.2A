@@ -59,3 +59,5 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/466/A
       26- 604A. Uncowed Forces:
              http://codeforces.com/problemset/problem/604/A
+      27- 600A. Extract Numbers:
+         http://codeforces.com/problemset/problem/600/A
