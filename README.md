@@ -63,3 +63,5 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/600/A
       28- 599A. Patrick and Shopping:
             http://codeforces.com/problemset/problem/599/A
+      29- 313A. Ilya and Bank Account:
+            http://codeforces.com/problemset/problem/313/A       
