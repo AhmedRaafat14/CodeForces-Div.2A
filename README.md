@@ -65,3 +65,5 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/599/A
       29- 313A. Ilya and Bank Account:
             http://codeforces.com/problemset/problem/313/A       
+      30- 230A. Dragons:
+            http://codeforces.com/problemset/problem/230/A
