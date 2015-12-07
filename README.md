@@ -67,3 +67,5 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/313/A       
       30- 230A. Dragons:
             http://codeforces.com/problemset/problem/230/A
+      31- 510A. Fox And Snake:
+            http://codeforces.com/problemset/problem/510/A
