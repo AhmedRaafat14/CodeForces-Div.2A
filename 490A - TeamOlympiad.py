@@ -56,7 +56,44 @@ Output
 0
 '''
 
-##          Running Time ====>>>   685 ms
+'''
+##  This solution depends on seperate the all 1s, 2s and 3s each one of them
+##     in a one array and then take each column of each array and count teams
+##      when counter be greater than one of 3 arrays so break and print data
+
+##              Running Time  ===>>>  77 ms   [O(N)]
+
+N = int(input())
+
+t_data = input().split()
+
+if t_data.count('1') == 0 or t_data.count('2') == 0 or t_data.count('3') == 0:
+    print('0')
+    exit
+else:
+    t1 = [(i+1, t_data[i]) for i in range(N) if t_data[i] == '1']
+    t2 = [(i+1, t_data[i]) for i in range(N) if t_data[i] == '2']
+    t3 = [(i+1, t_data[i]) for i in range(N) if t_data[i] == '3']
+
+    teams = []
+    team_counter = 0
+    while True:
+        if len(t1)-1 < team_counter or len(t2)-1 < team_counter or len(t3)-1 < team_counter:
+            break
+        teams.append([t1[team_counter][0], t2[team_counter][0], t3[team_counter][0]])
+        team_counter += 1
+
+    print(team_counter)
+    print("\n".join(" ".join(map(str, line)) for line in teams))
+
+'''
+##  This solution depends on loop through one array and get 3 members
+##     at one time and put its data to empty to never take them again
+##      and count team too when counter be equal to N or N-1 or there's no 
+##      any one of 1s, 2s or 3s in array break and print data
+##  this solution takes more time cuz it loops through the each element in array
+
+##          Running Time ====>>>   685 ms     [O(N^2)]
 
 N = int(input())
 
