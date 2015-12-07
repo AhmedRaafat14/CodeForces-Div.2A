@@ -69,3 +69,5 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/230/A
       31- 510A. Fox And Snake:
             http://codeforces.com/problemset/problem/510/A
+      32- 490A. TeamOlympiad:
+            http://codeforces.com/problemset/problem/490/A
