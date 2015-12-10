@@ -71,3 +71,5 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/510/A
       32- 490A. TeamOlympiad:
             http://codeforces.com/problemset/problem/490/A
+      33- 432A. Choosing Teams:
+            http://codeforces.com/problemset/problem/432/A
