@@ -83,3 +83,7 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/459/A
       38- 476A. Dreamoon and Stairs:
             http://codeforces.com/problemset/problem/476/A
+      39- 441A. Valera and Antique Items:
+            http://codeforces.com/problemset/problem/441/A
+      40- 462A. Appleman and Easy Task:
+            http://codeforces.com/problemset/problem/462/A
