@@ -73,3 +73,13 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/490/A
       33- 432A. Choosing Teams:
             http://codeforces.com/problemset/problem/432/A
+      34- 25A. IQ test:
+            http://codeforces.com/problemset/problem/25/A
+      35- 330A. Cakeminator:
+            http://codeforces.com/problemset/problem/330/A
+      36- 439A. Devu, the Singer and Churu, the Joker:
+            http://codeforces.com/problemset/problem/439/A
+      37- 459A. Pashmak and Garden:
+            http://codeforces.com/problemset/problem/459/A
+      38- 476A. Dreamoon and Stairs:
+            http://codeforces.com/problemset/problem/476/A
