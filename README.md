@@ -87,3 +87,5 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/441/A
       40- 462A. Appleman and Easy Task:
             http://codeforces.com/problemset/problem/462/A
+      41- 385A. Bear and Raspberry:
+            http://codeforces.com/problemset/problem/385/A
