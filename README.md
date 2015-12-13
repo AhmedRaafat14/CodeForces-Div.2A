@@ -95,3 +95,9 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/456/A
       44- 151A. Soft Drinking:
             http://codeforces.com/problemset/problem/151/A
+      45- 255A. Greg's Workout:
+            http://codeforces.com/problemset/problem/255/A
+      46- 378A. Playing With Dice:
+            http://codeforces.com/problemset/problem/378/A
+      47- 496A. Minimum Difficulty:
+            http://codeforces.com/problemset/problem/496/A
