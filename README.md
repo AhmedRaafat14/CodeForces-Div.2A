@@ -93,3 +93,5 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/276/A
       43- 456A. Laptops:
             http://codeforces.com/problemset/problem/456/A
+      44- 151A. Soft Drinking:
+            http://codeforces.com/problemset/problem/151/A
