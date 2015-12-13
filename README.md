@@ -91,3 +91,5 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/385/A
       42- 276A. Lunch Rush:
             http://codeforces.com/problemset/problem/276/A
+      43- 456A. Laptops:
+            http://codeforces.com/problemset/problem/456/A
