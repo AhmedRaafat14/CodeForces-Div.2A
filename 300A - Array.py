@@ -50,6 +50,9 @@ Output
 2 -3 -2
 1 0
 '''
+
+##              Running Time    ===>>>  124 ms
+
 N = int(input())
 
 array = list(map(int, input().split()))
