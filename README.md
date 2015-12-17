@@ -129,3 +129,5 @@ Difficulty Level: 2
 	    http://codeforces.com/problemset/problem/300/A
       61- 389A. Fox and Number Game:
 	    http://codeforces.com/problemset/problem/389/A
+      62- 488A. Giga Tower:
+	    http://codeforces.com/problemset/problem/488/A
