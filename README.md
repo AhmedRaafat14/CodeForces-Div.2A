@@ -127,3 +127,5 @@ Difficulty Level: 2
 	    http://codeforces.com/problemset/problem/114/A
       60- 300A. Array:
 	    http://codeforces.com/problemset/problem/300/A
+      61- 389A. Fox and Number Game:
+	    http://codeforces.com/problemset/problem/389/A
