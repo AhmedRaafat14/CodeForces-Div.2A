@@ -101,3 +101,25 @@ Difficulty Level: 2
             http://codeforces.com/problemset/problem/378/A
       47- 496A. Minimum Difficulty:
             http://codeforces.com/problemset/problem/496/A
+      48- 152A. Marks:
+	    http://codeforces.com/problemset/problem/152/A
+      49- 165A. Super central Point:
+       	    http://codeforces.com/problemset/problem/165/A
+      50- 233A. Perfect Permutation:
+	    http://codeforces.com/problemset/problem/233/A
+      51- 262A. Roma and Lucky Numbers:
+	    http://codeforces.com/problemset/problem/262/A
+      52- 265A. Colorful Stones (Simplified Edition):
+	    http://codeforces.com/problemset/problem/265/A
+      53- 350A. TL:
+	    http://codeforces.com/problemset/problem/350/A
+      54- 353A. Domino:
+	    http://codeforces.com/problemset/problem/353/A
+      55- 404A. Valera and X:
+	    http://codeforces.com/problemset/problem/404/A
+      56- 483A. Counter example:
+	    http://codeforces.com/problemset/problem/483/A
+      57- 499A. Watching a Movie:
+	    http://codeforces.com/problemset/problem/499/A
+      58- 501A. Contest:
+	    http://codeforces.com/problemset/problem/501/A
