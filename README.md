@@ -123,3 +123,7 @@ Difficulty Level: 2
 	    http://codeforces.com/problemset/problem/499/A
       58- 501A. Contest:
 	    http://codeforces.com/problemset/problem/501/A
+      59- 114A. Cifera:
+	    http://codeforces.com/problemset/problem/114/A
+      60- 300A. Array:
+	    http://codeforces.com/problemset/problem/300/A
