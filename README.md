@@ -131,3 +131,5 @@ Difficulty Level: 2
 	    http://codeforces.com/problemset/problem/389/A
       62- 488A. Giga Tower:
 	    http://codeforces.com/problemset/problem/488/A
+      63- 224A. Parallelepiped:
+	    http://codeforces.com/problemset/problem/224/A
