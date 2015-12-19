@@ -137,3 +137,7 @@ Difficulty Level: 2
 	    http://codeforces.com/problemset/problem/45/A
       65- 445A. DZY Loves Chessboard:
 	    http://codeforces.com/problemset/problem/445/A
+      66- 75A.  Life without Zeros:
+	    http://codeforces.com/problemset/problem/75/A
+      67- 296A. Yaroslav and Permutations:
+	    http://codeforces.com/problemset/problem/296/A
