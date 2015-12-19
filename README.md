@@ -133,3 +133,7 @@ Difficulty Level: 2
 	    http://codeforces.com/problemset/problem/488/A
       63- 224A. Parallelepiped:
 	    http://codeforces.com/problemset/problem/224/A
+      64- 45A. Football:
+	    http://codeforces.com/problemset/problem/45/A
+      65- 445A. DZY Loves Chessboard:
+	    http://codeforces.com/problemset/problem/445/A
