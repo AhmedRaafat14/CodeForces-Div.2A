@@ -141,3 +141,9 @@ Difficulty Level: 2
 	    http://codeforces.com/problemset/problem/75/A
       67- 296A. Yaroslav and Permutations:
 	    http://codeforces.com/problemset/problem/296/A
+      68- 355A. Vasya and Digital Root:
+	    http://codeforces.com/problemset/problem/355/A
+      69- 361A.  Levko and Table:
+	    http://codeforces.com/problemset/problem/361/A
+      70- 373A. Collecting Beats is Fun:
+	    http://codeforces.com/problemset/problem/373/A
