@@ -147,3 +147,7 @@ Difficulty Level: 2
 	    http://codeforces.com/problemset/problem/361/A
       70- 373A. Collecting Beats is Fun:
 	    http://codeforces.com/problemset/problem/373/A
+      71- 239A.  Two Bags of Potatoes:
+	    http://codeforces.com/problemset/problem/239/A
+      72- 437A. The Child and Homework:
+	    http://codeforces.com/problemset/problem/437/A
