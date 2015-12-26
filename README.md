@@ -151,3 +151,9 @@ Difficulty Level: 2
 	    http://codeforces.com/problemset/problem/239/A
       72- 437A. The Child and Homework:
 	    http://codeforces.com/problemset/problem/437/A
+      73- 363A. Soroban:
+	    http://codeforces.com/problemset/problem/363/A
+      74- 376A.  Lever:
+	    http://codeforces.com/problemset/problem/376/A
+      75- 408A. Line to Cashier:
+	    http://codeforces.com/problemset/problem/408/A
