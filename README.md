@@ -157,3 +157,9 @@ Difficulty Level: 2
 	    http://codeforces.com/problemset/problem/376/A
       75- 408A. Line to Cashier:
 	    http://codeforces.com/problemset/problem/408/A
+      76- 359A. Table:
+	    http://codeforces.com/problemset/problem/359/A
+      77- 302A.  Eugeny and Array:
+	    http://codeforces.com/problemset/problem/302/A
+      78- 609A. USB Flash Drives:
+	    http://codeforces.com/problemset/problem/609/A
