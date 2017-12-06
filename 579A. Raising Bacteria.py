@@ -23,19 +23,27 @@ x = int ( input ( ) )
 
 sol = 0
 
-while x > 0:
+while x > 0: # 5, 2, 1, 0 then exit
     if x % 2 == 1:
-        sol += 1
+        sol += 1 # 1, 2
 
-    x //= 2
+    x //= 2 # 2, 1, 0
 
-print(sol)
-
-
+print(sol) # 2
 
 
 
 
 
-#Another approche: by counting number of ones in it which acctually exst in odd vaues
+
+
+
+
+
+
+
+
+
+#Another approche:
+# by counting number of ones in binary reprsentation of number
 print( bin(int(input())).count('1') )
