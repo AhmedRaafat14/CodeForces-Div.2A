@@ -9,8 +9,16 @@ integer division in python which give us integr value
 5 // 2 = 2
 2 // 2 = 1
 1 // 2 = 0
-    
+ bict    removed     answer
+  5       1            1
+  2       0            1
+  1       1            2
+  ======================
+  7       1            1
+  3       1            2
+  1       1            3
 '''
+
 x = int ( input ( ) )
 
 sol = 0
@@ -24,5 +32,10 @@ while x > 0:
 print(sol)
 
 
+
+
+
+
+
 #Another approche: by counting number of ones in it which acctually exst in odd vaues
-#print( bin(int(input())).count('1') )
+print( bin(int(input())).count('1') )
