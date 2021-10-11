@@ -60,7 +60,7 @@ L, R = int(data[0]), int(data[1])
         2- Case #2: if l is even number so one of solutions for this problem
                     will be l cuz its not prime and l+1 and r the last one
                     for example:
-                       l = 2    r = 3   solution: l = 2, l+1 = 3, r = 4
+                       l = 2    r = 4   solution: l = 2, l+1 = 3, r = 4
                                                  2, 3, 4
         3- Case #3: if difference between l and r greater than 3
                     so solution here will be the l+1 our first number
